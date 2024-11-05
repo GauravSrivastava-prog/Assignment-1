@@ -28,7 +28,7 @@ To run the DiabetesGPT application locally, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/diabetes-gpt.git
+   git clone https://github.com/GauravSrivastava-prog/Assignment-1/tree/main
    cd diabetes-gpt
    ```
 
