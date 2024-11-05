@@ -1,6 +1,6 @@
 # DiabetesGPT: An Interactive Diabetes Prediction Tool
 
-![DiabetesGPT Home Page](https://imgur.com/5lFeTM5)
+![DiabetesGPT Home Page](https://i.imgur.com/5lFeTM5.png)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
