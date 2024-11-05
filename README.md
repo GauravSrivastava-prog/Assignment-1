@@ -33,11 +33,11 @@ To run the DiabetesGPT application locally, follow these steps:
    ```
 
 2. **Create a Virtual Environment:
-  ```bash
-  python -m venv venv
-  source venv/bin/activate  # On macOS/Linux
-  venv\Scripts\activate     # On Windows
-  ```
+   ```bash
+     python -m venv venv
+     source venv/bin/activate  # On macOS/Linux
+     venv\Scripts\activate     # On Windows
+   ```
 
 3. **Run the Application:
    ```bash
